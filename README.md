@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiddyGit
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, and javascript
-- 💞️ I’m looking to collaborate on prokects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ameliabkoba1112@yahoo.co.jp, ameliakbsh@gmail.com
 
 <!---
