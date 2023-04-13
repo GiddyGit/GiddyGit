@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiddyGit
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript, mongodb, php, sql
+- 🌱 I’m currently learning web design and front end development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ameliabkoba1112@yahoo.co.jp, ameliakbsh@gmail.com
 
